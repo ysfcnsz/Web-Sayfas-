@@ -1,2 +1,0 @@
-# Web-Sayfas-
-HTML
