@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="tr">
+    <head>
+        <meta charset="UTF-8"
+        <title>HTML 2</title>
+        
+    </head>
+   
+    <body>
+
+        <h1>Yusuf Çenesiz</h1>
+        <!-- Ana başlık -->
+        <h2>Hakkımda</h2>
+        <!-- Alt başlık -->
+
+        <p>Merhaba ben Yusuf  İstanbul'da yaşıyorum. </p>
+        <!-- Paragraf -->
+
+        <h2>Sevdiğim Yazarlar</h2>
+        <!-- Sevdiğim Yazarları başlığı -->
+
+        <h3>Christy Brown</h3>
+        <!-- Yazar-->
+
+        <p>n Doğuştan beyin felci ile dünyaya gelmiştir ve çok uzun süre konuşmadan ve hareket edemeden yaşamıştır.Bu da beni onu sevdiğim yazarlardan biri yapıyor.</p>
+        <!-- Yazar bilgisi. -->
+
+        <h2>İlgi Alanlarım</h2>
+
+        <ol>     
+            <li>Kitap</li>
+            <ul>
+                <li>Sol ayağım</li>
+                <li><a target = "blank" href="https://en.wikipedia.org/wiki/My_Left_Foot_(book)">
+                </a></li>
+                
+            </ul>
+        </ol>
+        
+    </body>
+</html>
